@@ -1,0 +1,46 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.img-head {
+    max-width: 1200px;
+    max-height: auto;
+}
+
+.img-split1-left {
+    max-width: 600px;
+    max-height: auto
+}
+
+.img-split1-right {
+    max-width: 600px;
+    max-height: auto
+}
+
+.img-split3 img {
+    max-width: 600px;
+    max-height: auto
+}
+
+.img-split4 img {
+    max-width: 600px;
+    max-height: auto
+}
+
+.img-split5 img {
+    max-width: 600px;
+    max-height: auto
+}
+
+.img-split6 img {
+    max-width: 600px;
+    max-height: auto
+}
